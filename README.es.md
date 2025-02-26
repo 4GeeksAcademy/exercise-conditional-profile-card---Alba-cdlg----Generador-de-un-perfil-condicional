@@ -30,7 +30,7 @@ $ npm run start
 ```
 
 > 💡 Importante: Recuerda guardar y cargar tu código en GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y cargando el código en su nuevo repositorio usando los comandos `add`, `commit` y `push` desde el terminal git.
-
+pm run start
 </onlyfor>
 
 ## Un poco de Contexto
